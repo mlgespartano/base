@@ -46,6 +46,7 @@
 
 			
 		</table>
+		
 	</div>
 	{{$categoria ->render()}}
 </div>

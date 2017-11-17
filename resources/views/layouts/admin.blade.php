@@ -94,6 +94,7 @@
               <ul class="treeview-menu">
                 <li><a href="{{url('almacen/articulo')}}"><i class="fa fa-circle-o"></i> Artículos</a></li>
                 <li><a href="{{url('almacen/categoria')}}"><i class="fa fa-circle-o"></i> Categorías</a></li>
+                <li><a href="{{url('almacen/detalleventa')}}"><i class="fa fa-circle-o"></i> Detalle venta</a></li>
               </ul>
             </li>
             

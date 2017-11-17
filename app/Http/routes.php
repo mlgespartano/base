@@ -21,6 +21,8 @@ Route::resource('almacen/categoria','CategoriaController');
 
 Route::resource('almacen/articulo','ArticuloController');
 
+Route::resource('almacen/detalleventa','DetalleventaController');
+
 Route::resource('recepcionista/solicitud','ReservaController');
 
 
